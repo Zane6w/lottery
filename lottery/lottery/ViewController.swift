@@ -71,7 +71,7 @@ extension ViewController {
         scrollView.addSubview(leftView)
         
         // 初始化左上角遮挡 View
-        let placeView = UIView(frame: CGRect(x: 0, y: 0, width: place, height: place))
+        let placeView = UIView(frame: CGRect(x: 0, y: 20, width: place, height: place))
         placeView.backgroundColor = UIColor.white
         view.addSubview(placeView)
         

@@ -29,7 +29,7 @@
                             <constraint firstItem="qPS-0o-v3e" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="6vf-iS-j5X"/>
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="qPS-0o-v3e" secondAttribute="bottom" id="G4n-HA-Sfl"/>
                             <constraint firstAttribute="trailing" secondItem="qPS-0o-v3e" secondAttribute="trailing" id="VqE-KM-xkK"/>
-                            <constraint firstItem="qPS-0o-v3e" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="xzX-NK-08g"/>
+                            <constraint firstItem="qPS-0o-v3e" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="kAZ-lS-BXs"/>
                         </constraints>
                     </view>
                     <connections>
@@ -38,6 +38,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="24.800000000000001" y="36.431784107946029"/>
         </scene>
     </scenes>
 </document>
