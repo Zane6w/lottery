@@ -4,6 +4,4 @@
 
 > 而“蓝色的内容展示区域也应载入与上下两个指示View对应的图片，以此来实现联动的效果。”
 
-<div align=center>
-![image](https://github.com/Zane6w/lottery/blob/master/Simulator%20Screen%20Shot%202016%E5%B9%B410%E6%9C%8818%E6%97%A5%2011.14.28.png)
-</div>
+<center>![image](https://github.com/Zane6w/lottery/blob/master/Simulator%20Screen%20Shot%202016%E5%B9%B410%E6%9C%8818%E6%97%A5%2011.14.28.png)</center>
